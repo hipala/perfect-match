@@ -2,9 +2,8 @@ body {
     background: url(https://raw.githubusercontent.com/hipala/perfect-match/gh-pages/cat.jpeg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     font-family: Lato;
-    height: 100vh;
-    width: 100vw;
     color: white;
 }
 
